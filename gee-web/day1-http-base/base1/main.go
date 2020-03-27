@@ -12,7 +12,7 @@ func main() {
 	log.Fatal(http.ListenAndServe(":80",nil))
 }
 
-//handler echoes r.URL.Path
+//handler echoes r.URL.Path 1
 func indexHandler(w http.ResponseWriter,req *http.Request)  {
 	fmt.Fprintf(w,"URL.Path = %q\n",req.URL.Path)
 }
