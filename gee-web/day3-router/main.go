@@ -1,7 +1,7 @@
 package main
 
 import (
-	"demo/7days-golang/gee-web/day3-router/gee"
+	"gee"
 	"net/http"
 )
 

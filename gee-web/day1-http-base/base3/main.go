@@ -1,7 +1,7 @@
 package main
 
 import (
-	"demo/7days-golang/gee-web/day1-http-base/base3/gee"
+	"gee"
 	"fmt"
 	"net/http"
 )

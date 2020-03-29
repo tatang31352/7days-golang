@@ -1,7 +1,7 @@
 package main
 
 import (
-	"demo/7days-golang/gee-web/day5-middleware/gee"
+	"gee"
 	"log"
 	"net/http"
 	"time"

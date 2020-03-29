@@ -1,4 +1,4 @@
-module demo/7days-golang/gee-web/day2-context
+module demo/7days-golang/gee-web/day6-template
 
 go 1.13
 
